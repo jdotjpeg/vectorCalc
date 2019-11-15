@@ -1,7 +1,7 @@
 package vectorComponentCalc;
 
 /*
-This is version 2 of the program without the boolean methods, idk if it could calculate it properly
+This is the latest version of my vector calculator.
 Gotta secure that extra credit ykyk
 
 Stuff it's gotta have:
